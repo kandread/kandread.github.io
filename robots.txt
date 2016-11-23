@@ -1,0 +1,4 @@
+Sitemap: https://kandread.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: kandread.github.io
