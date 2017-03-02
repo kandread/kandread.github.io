@@ -7,22 +7,18 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://kandread.github.io/categories/lisflood.xml</loc>
-  <lastmod>2016-12-28T02:00:00Z</lastmod>
+  <lastmod>2017-03-02T05:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kandread.github.io/categories/swot.xml</loc>
-  <lastmod>2016-12-28T02:00:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://kandread.github.io/galleries/rss.xml</loc>
-  <lastmod>2016-12-28T02:00:00Z</lastmod>
+  <lastmod>2017-03-02T05:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kandread.github.io/rss.xml</loc>
-  <lastmod>2016-12-28T02:00:00Z</lastmod>
+  <lastmod>2017-03-02T05:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kandread.github.io/sitemap.xml</loc>
-  <lastmod>2016-12-28T02:00:00Z</lastmod>
+  <lastmod>2017-03-02T05:29:00Z</lastmod>
  </sitemap>
 </sitemapindex>
